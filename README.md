@@ -57,7 +57,7 @@ This repository is still under development and I will continue to add more featu
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mohak1283/Instagram-Clone
+$ https://github.com/vaibhavmit074/instagram-clone
 $ cd Instagram-Clone/
 ```
 
